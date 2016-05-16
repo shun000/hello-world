@@ -1,2 +1,4 @@
 # hello-world
-Hello world repository for tutorial
+Hello world repository only for tutorial purpose.
+
+Shun
